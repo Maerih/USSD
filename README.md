@@ -1,4 +1,4 @@
 # USSD
-PHP USSD CODE
+### PHP USSD CODE
 
 Using Africa's Talking API.
